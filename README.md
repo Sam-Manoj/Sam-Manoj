@@ -8,8 +8,6 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on: **Full-stack web apps (Django/React) and Creative Design Strategies**
-- 🌱 I’m learning: **Deep Learning, Machine Learning, and JavaFX**
-- 🤝 I’m actively involved in: **CSI SFIT (Creative Head) & NSS SFIT (Head)**
 - 💬 Ask me about: **UI/UX Design, Graphic Design, Photography, and Python**
 - ⚡ Fun fact: **I merge technical skills with creativity to deliver impactful designs and visuals.**
 
