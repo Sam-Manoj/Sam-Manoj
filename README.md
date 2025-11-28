@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam Manoj</h1>
-<h3 align="center">Computer Engineering Student @ SFIT | Creative Head @ CSI SFIT | Graphic Designer & Photographer 🇮🇳</h3>
+
 
 
 
