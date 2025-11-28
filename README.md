@@ -13,6 +13,13 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sam-Manoj&show_icons=true&locale=en&theme=dark" alt="stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sam-Manoj&show_icons=true&locale=en&layout=compact&theme=dark" alt="langs" height="200"/>
+</p>
+
 ### 🛠️ Languages and Tools
 
 <p align="left">
