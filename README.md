@@ -14,7 +14,7 @@
 
 ✍️ In my free time, I pursue photography, visual storytelling, and strength training.
 
-💬 Feel free to reach out to me regarding my projects like **Cura**, or my work as the **Creative Head at CSI SFIT** and **Head of NSS SFIT**.
+💬 Feel free to reach out to me regarding my projects
 
 ✉️ You can shoot me an email at **sammanoj05@gmail.com** I’ll try to respond as soon as I can.
 
