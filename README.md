@@ -16,11 +16,10 @@
 
 💬 Feel free to reach out to me regarding my projects like **Cura**, or my work as the **Creative Head at CSI SFIT** and **Head of NSS SFIT**.
 
-✉️ You can shoot me an email at **YOUR_EMAIL_HERE!** I’ll try to respond as soon as I can.
+✉️ You can shoot me an email at **sammanoj05@gmail.com** I’ll try to respond as soon as I can.
 
-📄 Please have a look at my **Résumé** for more details about me. I’m open to feedback and suggestions!
 
-<p align="right">
+<p align="center">
   <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Coding" width="320">
 </p>
 
