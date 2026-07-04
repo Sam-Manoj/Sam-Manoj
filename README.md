@@ -19,9 +19,7 @@
 ✉️ You can shoot me an email at **sammanoj05@gmail.com** I’ll try to respond as soon as I can.
 
 
-<p align="center">
-  <img src="./assets/coding.gif" alt="Coding" width="100%">
-</p>
+
 
 ---
 
@@ -79,6 +77,11 @@
 <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/>
 </a>
 
+</p>
+---
+
+<p align="center">
+  <img src="./assets/coding.gif" alt="Coding" width="100%">
 </p>
 
 ---
