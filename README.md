@@ -20,7 +20,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Coding" width="320">
+  <img src="./assets/coding.gif" alt="Coding" width="320">
 </p>
 
 ---
