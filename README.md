@@ -20,7 +20,7 @@
 
 
 <p align="center">
-  <img src="./assets/coding.gif" alt="Coding" width="320">
+  <img src="./assets/coding.gif" alt="Coding" width="100%">
 </p>
 
 ---
