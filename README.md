@@ -65,17 +65,15 @@
 
 <p align="left">
 
-<a href="(https://sam-manoj-portfolio.vercel.app/)">
-<img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/>
-</a>
-
-<a href="(https://www.linkedin.com/in/sam-manoj/)">
-<img src="https://img.shields.io/badge/-Sam%20Manoj-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sammanoj05@gmail.com">
-<img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sam-manoj">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  
+  <a href="mailto:sammanoj05@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+</p>
 
 </p>
 ---
