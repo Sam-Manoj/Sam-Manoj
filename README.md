@@ -63,7 +63,7 @@
 <img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/>
 </a>
 
-<a href="[https://www.linkedin.com/in/sam-manoj/]">
+<a href="(https://www.linkedin.com/in/sam-manoj/)">
 <img src="https://img.shields.io/badge/-Sam%20Manoj-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
 </a>
 
