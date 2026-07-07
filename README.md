@@ -80,7 +80,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/coding.gif" alt="Coding" width="100%">
+  <img src="./assets/sam1.gif" alt="Coding" width="100%">
 </p>
 
 ---
