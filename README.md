@@ -64,7 +64,7 @@
 
 <div align="center">
 
-![Trophies](https://github-trophies.vercel.app/?username=Sam-Manooj&theme=radical&no-frame=true&margin-w=4&column=5&titles=Commits,MultiLanguage,Repositories,Stars,Followers)
+![Trophies](https://github-trophies.vercel.app/?username=Sam-Manoj&theme=radical&no-frame=true&margin-w=4&column=5&titles=Commits,MultiLanguage,Repositories,Stars,Followers)
 
 </div>
 
