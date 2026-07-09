@@ -60,6 +60,10 @@
 </p>
 
 ---
+## Github Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sam-Manoj&theme=onedark)](https://github.com/Sam-Manoj/github-profile-trophy)
+
+---
 
 ## 🤝🏻 Connect with Me
 
