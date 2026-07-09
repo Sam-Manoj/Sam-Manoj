@@ -61,7 +61,12 @@
 
 ---
 ## Github Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sam-Manoj&theme=onedark)](https://github.com/Sam-Manoj/github-profile-trophy)
+
+<div align="center">
+
+![Trophies](https://github-trophies.vercel.app/?username=Sam-Manooj&theme=radical&no-frame=true&margin-w=4&column=5&titles=Commits,MultiLanguage,Repositories,Stars,Followers)
+
+</div>
 
 ---
 
